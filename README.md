@@ -22,3 +22,16 @@ Junior Researcher automates the process of gathering, analyzing, and synthesizin
 *   Frontend: Next.js, React, TypeScript, Shadcn UI, Tailwind CSS
 *   Backend: FastAPI
 *   AI: Google Gemini API
+
+## How to setup the backend
+
+1. Go to backend folder
+2. Create and activate a virtual environment (`python -m venv venv`
+   `source venv/bin/activate`  # On Windows: `venv\Scripts\activate`)
+3. Install dependencies:
+
+   `pip install -r requirements.txt`
+
+4. Create a `.env` file in the root directory and add your Gemini API key:
+
+   `GEMINI_KEY=your_api_key_here`
