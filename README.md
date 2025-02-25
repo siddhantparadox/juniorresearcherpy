@@ -11,7 +11,6 @@ Junior Researcher is an intelligent research assistant powered by AI that perfor
 
 *   `backend/`: Contains the FastAPI backend code.
 *   `frontend/`: Contains the Next.js frontend code.
-*   `.clinerules`: Contains Cline-specific configuration for the project.
 
 ## Project Details
 
@@ -35,3 +34,6 @@ Junior Researcher automates the process of gathering, analyzing, and synthesizin
 4. Create a `.env` file in the root directory and add your Gemini API key:
 
    `GEMINI_KEY=your_api_key_here`
+
+
+Please let us know or make a pull request if you want to make any updates
