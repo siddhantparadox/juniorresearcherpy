@@ -1,0 +1,62 @@
+# Node.js
+/node_modules
+/out
+/dist
+/.next
+/build
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Temporary files
+*~
+\#*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/vendor
+
+# Python
+*.pyc
+__pycache__/
+.python-version
+
+# FastAPI
+/venv
+
+# Next.js specific ignores
+.next/
+out/
+
+# Shadcn UI
+.turbo/
+
+# Cline related files
+.clinerules
+.clineignore
+
+# Frontend git repo
+frontend/.git
