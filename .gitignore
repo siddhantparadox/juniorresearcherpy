@@ -56,3 +56,6 @@ out/
 
 # Cline related files
 .clinerules
+
+# Frontend git repo
+frontend/.git
