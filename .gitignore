@@ -45,7 +45,7 @@ __pycache__/
 .python-version
 
 # FastAPI
-/venv/
+/backend/venv/
 
 # Next.js specific ignores
 .next/
